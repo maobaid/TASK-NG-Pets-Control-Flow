@@ -64,6 +64,16 @@ const pets: Pet[] = [
     image2: 'https://i.ibb.co/tm8R0jm/918f1b2c568be3d77a7c29d682be874c.gif',
     adopted: false,
   },
+  {
+    id: 7,
+    name: 'Browni',
+    description: 'A Cute cat',
+    type: 'Rabbit',
+    image:
+      'https://i.pinimg.com/736x/50/6d/46/506d4688a1b05dbf016fcbf47d900651.jpg',
+    image2: 'https://i.ibb.co/tm8R0jm/918f1b2c568be3d77a7c29d682be874c.gif',
+    adopted: true,
+  },
 ];
 
 export default pets;
